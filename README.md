@@ -1,18 +1,3 @@
-# Marcenaria-Patricio
-Bem-vindo à nossa página!
-## Sobre Nós
-A Marcenaria Patrício é uma empresa especializada na fabricação, entrega e instalação de móveis planejados, oferecendo soluções personalizadas para diversos ambientes residenciais. Com um comprometimento excepcional com a qualidade e atenção aos detalhes, a empresa se destaca pela excelência em seus serviços.
-
-A ênfase da Marcenaria Patrício está na fabricação artesanal de móveis planejados, garantindo peças sob medida que atendam às necessidades específicas de cada cliente. Seja para a sala, quarto, banheiro, cozinha ou área de serviço, a empresa trabalha de perto com os clientes para entender suas preferências e criar móveis que se alinhem perfeitamente ao estilo e ao espaço disponível.
-
-Além da fabricação personalizada, a Marcenaria Patrício se destaca pela eficiência na entrega e instalação de seus produtos. Comprometida em oferecer um serviço completo, a empresa assegura que os móveis sejam entregues no prazo estabelecido e instalados de forma profissional, garantindo a satisfação do cliente desde a concepção do projeto até a conclusão.
-
-## Contato
-
-Email: marcenariapatricio@gmail.com
-Telefone:(21) 97610-8757
-
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -78,16 +63,29 @@ Telefone:(21) 97610-8757
     <h2>Nossos Serviços</h2>
     <ul>
       <li>Móveis Planejados</li>
-      <li>Reforma de Móveis</li>
-      <li>Assessoria em Design de Interiores</li>
+      <li>Fabricação Personalizada</li>
+      <li>Desenvolvimento de Projetos: Colaboração estreita com os clientes para entender suas necessidades, preferências e orçamento, resultando na criação de projetos personalizados para móveis planejados.
+Seleção de Materiais: Escolha criteriosa de materiais de alta qualidade para garantir durabilidade, estética e funcionalidade dos móveis.</li>
+   <li>Entrega Pontual</li>
+       <li>Compromisso com Prazos: Cumprimento rigoroso dos prazos acordados, assegurando que os móveis sejam entregues conforme o planejado e dentro do prazo estabelecido com o cliente.
+Logística Eficiente: Coordenação logística para garantir a entrega segura e sem danos aos móveis planejados.</li>
+   <li>Instalação Profissional</li>
+  <li>Equipe Especializada: Utilização de equipes de profissionais especializados na instalação de móveis, garantindo um processo eficiente e preciso.
+Montagem Cuidadosa: Instalação dos móveis planejados de forma cuidadosa e precisa, assegurando que cada peça esteja perfeitamente ajustada e funcional.</li>
+  <li>Ambientes Atendidos</li>
+   <li>Sala: Desenvolvimento e instalação de móveis planejados para salas de estar, jantar e home theaters, focando na otimização do espaço e estética.
+Cozinha: Criação de soluções personalizadas para cozinhas, incluindo armários, bancadas e outros móveis que atendam às necessidades específicas do cliente.
+Quarto: Fabricação de móveis planejados para quartos, como guarda-roupas, camas e criados-mudos, visando o conforto e a organização.
+Banheiro: Desenvolvimento de móveis planejados para banheiros, considerando a funcionalidade e a estética desse ambiente.
+Área de Serviço: Criação de soluções inteligentes para a área de serviço, incluindo armários e prateleiras que facilitem a organização do espaço.</li>
     </ul>
   </section>
 
   <section>
     <h2>Contato</h2>
     <p>Entre em contato conosco para discutir seu próximo projeto. Estamos ansiosos para ouvir suas ideias!</p>
-    <p>Email: contato@marcenariapatricio.com</p>
-    <p>Telefone: (XX) XXXX-XXXX</p>
+    <p>Email: marcenariapatricio@gmail.com</p>
+    <p>Telefone: (21) 97610-8757</p>
   </section>
 
   <footer>
